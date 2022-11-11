@@ -1,0 +1,19 @@
+{
+  "name": "Illegal_Uploaded_Video_Content",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "全ての動画コンテンツを違法アップロード風に",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/watch*"
+      ],
+      "js": [
+        "main.js"
+      ],
+      "css": [
+        "main.css"
+      ]
+    }
+  ]
+}

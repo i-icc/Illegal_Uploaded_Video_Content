@@ -1,0 +1,11 @@
+.video-stream {
+    width: 40% !important;
+    left: 5% !important;
+    /* border-style: solid;
+    border-color: white; */
+}
+
+.ytp-iv-video-content {
+    background-image: url("https://2.bp.blogspot.com/-S35fdHRbAd0/WQvu0er5TfI/AAAAAAABECI/t9I_aSAdtCgQVcAXhWUgNFJx_8J0eFKSQCLcB/s800/bg_uchu_space.jpg");
+    background-size: 100%;
+}
